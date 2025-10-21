@@ -24,13 +24,12 @@ body {
   height: 150px;
   background-color: #fff;
   justify-content: center;
+  align-items: center;
 }
 
 .circle {
-  display: flex;
   width: 75px;
   height: 75px;
   background-color: red;
   border-radius: 50%;
-  align-items: center;
 }
